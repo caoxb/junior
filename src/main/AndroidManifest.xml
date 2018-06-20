@@ -10,9 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".JuniorActivity" />
-        <activity android:name=".activity.StateActivity"></activity>
-        <activity android:name=".activity.ShapeActivity">
-        </activity>
+        <activity android:name=".activity.StateActivity" />
+        <activity android:name=".activity.ShapeActivity" />
         <activity android:name=".activity.ScrollActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,6 +19,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity.ScreenActivity" />
+        <activity android:name=".activity.ScaleActivity" />
+        <activity android:name=".activity.PxActivity" />
+        <activity android:name=".activity.NineActivity"></activity>
     </application>
 
 </manifest>
