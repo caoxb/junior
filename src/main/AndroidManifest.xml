@@ -22,7 +22,16 @@
         <activity android:name=".activity.ScreenActivity" />
         <activity android:name=".activity.ScaleActivity" />
         <activity android:name=".activity.PxActivity" />
-        <activity android:name=".activity.NineActivity"></activity>
+        <activity android:name=".activity.NineActivity" />
+        <activity android:name=".activity.MarqueeActivity" />
+        <activity android:name=".activity.MarginActivity" />
+        <activity android:name=".activity.IconActivity" />
+        <activity android:name=".activity.GravityActivity" />
+        <activity android:name=".activity.ColorActivity" />
+        <activity android:name=".activity.ClickActivity" />
+        <activity android:name=".activity.CaptureActivity" />
+        <activity android:name=".activity.CalculatorActivity" />
+        <activity android:name=".activity.BbsActivity"></activity>
     </application>
 
 </manifest>
