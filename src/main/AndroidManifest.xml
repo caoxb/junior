@@ -31,7 +31,10 @@
         <activity android:name=".activity.ClickActivity" />
         <activity android:name=".activity.CaptureActivity" />
         <activity android:name=".activity.CalculatorActivity" />
-        <activity android:name=".activity.BbsActivity"></activity>
+        <activity android:name=".activity.BbsActivity" />
+        <activity android:name="xbcao.middle.MiddleActivity" />
+        <activity android:name="xbcao.middle.activity.TextCheckActivity" />
+        <activity android:name="xbcao.middle.activity.SwitchIOSActivity"></activity>
     </application>
 
 </manifest>
