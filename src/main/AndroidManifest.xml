@@ -12,13 +12,7 @@
         <activity android:name=".JuniorActivity" />
         <activity android:name=".activity.StateActivity" />
         <activity android:name=".activity.ShapeActivity" />
-        <activity android:name=".activity.ScrollActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+        <activity android:name=".activity.ScrollActivity" />
         <activity android:name=".activity.ScreenActivity" />
         <activity android:name=".activity.ScaleActivity" />
         <activity android:name=".activity.PxActivity" />
@@ -34,7 +28,17 @@
         <activity android:name=".activity.BbsActivity" />
         <activity android:name="xbcao.middle.MiddleActivity" />
         <activity android:name="xbcao.middle.activity.TextCheckActivity" />
-        <activity android:name="xbcao.middle.activity.SwitchIOSActivity"></activity>
+        <activity android:name="xbcao.middle.activity.SwitchIOSActivity" />
+        <activity android:name="xbcao.middle.activity.SwitchDefaultActivity" />
+        <activity android:name="xbcao.middle.activity.SpinnerIconActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="xbcao.middle.activity.SpinnerDropdownActivity" />
+        <activity android:name="xbcao.middle.activity.SpinnerDialogActivity"></activity>
     </application>
 
 </manifest>
