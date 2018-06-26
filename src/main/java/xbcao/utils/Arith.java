@@ -1,4 +1,4 @@
-package xbcao.junior.utils;
+package xbcao.utils;
 
 import java.math.BigDecimal;
 

@@ -13,7 +13,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import xbcao.junior.R;
-import xbcao.junior.utils.DateUtil;
+import xbcao.utils.DateUtil;
 
 public class CaptureFragment extends Fragment implements View.OnClickListener, View.OnLongClickListener{
 

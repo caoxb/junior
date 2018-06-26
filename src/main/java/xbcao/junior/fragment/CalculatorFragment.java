@@ -12,7 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import xbcao.junior.R;
-import xbcao.junior.utils.Arith;
+import xbcao.utils.Arith;
 
 public class CalculatorFragment extends Fragment implements View.OnClickListener{
 

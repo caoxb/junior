@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import xbcao.junior.R;
-import xbcao.junior.utils.Utils;
+import xbcao.utils.Utils;
 
 public class PxFragment extends Fragment {
 

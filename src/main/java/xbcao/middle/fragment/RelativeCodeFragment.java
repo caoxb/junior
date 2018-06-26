@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 
 import xbcao.junior.R;
-import xbcao.junior.utils.Utils;
+import xbcao.utils.Utils;
 
 public class RelativeCodeFragment extends Fragment implements View.OnClickListener {
 
@@ -23,7 +23,7 @@ public class RelativeCodeFragment extends Fragment implements View.OnClickListen
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_relative_code, container, false);
-// 从布局文件中获取名叫rl_content的相对布局
+        // 从布局文件中获取名叫rl_content的相对布局
         rl_content = view.findViewById(R.id.rl_content);
         // 下面通过不同按钮演示在相对布局内部的指定位置添加子视图
         view.findViewById(R.id.btn_add_left).setOnClickListener(this);

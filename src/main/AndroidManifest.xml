@@ -42,7 +42,12 @@
         <activity android:name="xbcao.middle.activity.RelativeXmlActivity" />
         <activity android:name="xbcao.middle.activity.RelativeCodeActivity" />
         <activity android:name="xbcao.middle.activity.RadioVerticalActivity" />
-        <activity android:name="xbcao.middle.activity.RadioHorizontalActivity"></activity>
+        <activity android:name="xbcao.middle.activity.RadioHorizontalActivity" />
+        <activity android:name="xbcao.middle.activity.MortgageActivity" />
+        <activity android:name="xbcao.middle.activity.LoginActivity" />
+        <activity android:name="xbcao.middle.activity.LoginForgetActivity" />
+        <activity android:name="xbcao.middle.activity.FrameActivity" />
+        <activity android:name="xbcao.middle.activity.EditSimpleActivity"></activity>
     </application>
 
 </manifest>
