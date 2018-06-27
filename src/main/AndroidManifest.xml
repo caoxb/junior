@@ -47,7 +47,12 @@
         <activity android:name="xbcao.middle.activity.LoginActivity" />
         <activity android:name="xbcao.middle.activity.LoginForgetActivity" />
         <activity android:name="xbcao.middle.activity.FrameActivity" />
-        <activity android:name="xbcao.middle.activity.EditSimpleActivity"></activity>
+        <activity android:name="xbcao.middle.activity.EditSimpleActivity" />
+        <activity android:name="xbcao.middle.activity.EditJumpActivity" />
+        <activity android:name="xbcao.middle.activity.EditHideActivity" />
+        <activity android:name="xbcao.middle.activity.EditCursorActivity" />
+        <activity android:name="xbcao.middle.activity.EditBorderActivity" />
+        <activity android:name="xbcao.middle.activity.EditAutoActivity"></activity>
     </application>
 
 </manifest>
