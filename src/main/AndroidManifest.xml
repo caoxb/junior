@@ -52,7 +52,13 @@
         <activity android:name="xbcao.middle.activity.EditHideActivity" />
         <activity android:name="xbcao.middle.activity.EditCursorActivity" />
         <activity android:name="xbcao.middle.activity.EditBorderActivity" />
-        <activity android:name="xbcao.middle.activity.EditAutoActivity"></activity>
+        <activity android:name="xbcao.middle.activity.EditAutoActivity" />
+        <activity android:name="xbcao.middle.activity.CheckboxActivity" />
+        <activity android:name="xbcao.middle.activity.AlertActivity" />
+        <activity android:name="xbcao.middle.activity.ActUriActivity" />
+        <activity android:name="xbcao.middle.activity.ActRotateActivity" />
+        <activity android:name="xbcao.middle.activity.ActResponseActivity" />
+        <activity android:name="xbcao.middle.activity.ActRequestActivity" />
     </application>
 
 </manifest>
