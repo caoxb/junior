@@ -59,6 +59,9 @@
         <activity android:name="xbcao.middle.activity.ActRotateActivity" />
         <activity android:name="xbcao.middle.activity.ActResponseActivity" />
         <activity android:name="xbcao.middle.activity.ActRequestActivity" />
+        <activity android:name="xbcao.storage.StorageActivity" />
+        <activity android:name="xbcao.storage.activity.TextWriteActivity" />
+        <activity android:name="xbcao.storage.activity.TextReadActivity"></activity>
     </application>
 
 </manifest>
