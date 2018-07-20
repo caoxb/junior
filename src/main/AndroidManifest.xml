@@ -61,7 +61,9 @@
         <activity android:name="xbcao.middle.activity.ActRequestActivity" />
         <activity android:name="xbcao.storage.StorageActivity" />
         <activity android:name="xbcao.storage.activity.TextWriteActivity" />
-        <activity android:name="xbcao.storage.activity.TextReadActivity"></activity>
+        <activity android:name="xbcao.storage.activity.TextReadActivity" />
+        <activity android:name="xbcao.storage.activity.SQLiteWriteActivity" />
+        <activity android:name="xbcao.storage.activity.SQLiteReadActivity"></activity>
     </application>
 
 </manifest>
