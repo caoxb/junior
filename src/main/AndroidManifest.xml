@@ -3,6 +3,7 @@
     package="xbcao.junior">
 
     <application
+        android:name="xbcao.MainApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -63,7 +64,10 @@
         <activity android:name="xbcao.storage.activity.TextWriteActivity" />
         <activity android:name="xbcao.storage.activity.TextReadActivity" />
         <activity android:name="xbcao.storage.activity.SQLiteWriteActivity" />
-        <activity android:name="xbcao.storage.activity.SQLiteReadActivity"></activity>
+        <activity android:name="xbcao.storage.activity.SQLiteReadActivity" />
+        <activity android:name="xbcao.storage.activity.ShoppingDetailActivity" />
+        <activity android:name="xbcao.storage.activity.ShoppingChannelActivity" />
+        <activity android:name="xbcao.storage.activity.ShoppingCartActivity"></activity>
     </application>
 
 </manifest>
