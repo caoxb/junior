@@ -69,7 +69,8 @@
         <activity android:name="xbcao.storage.activity.ShoppingChannelActivity" />
         <activity android:name="xbcao.storage.activity.ShoppingCartActivity" />
         <activity android:name="xbcao.storage.activity.ShareReadActivity" />
-        <activity android:name="xbcao.storage.activity.ShareWriteActivity"></activity>
+        <activity android:name="xbcao.storage.activity.ShareWriteActivity" />
+        <activity android:name="xbcao.storage.activity.MenuOptionActivity"></activity>
     </application>
 
 </manifest>
